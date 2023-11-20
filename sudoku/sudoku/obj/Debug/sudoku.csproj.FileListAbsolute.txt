@@ -1,0 +1,9 @@
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\toko ritel sepatu\sudoku\sudoku\bin\Debug\sudoku.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\toko ritel sepatu\sudoku\sudoku\bin\Debug\sudoku.exe
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\toko ritel sepatu\sudoku\sudoku\bin\Debug\sudoku.pdb
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\toko ritel sepatu\sudoku\sudoku\obj\Debug\sudoku.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\toko ritel sepatu\sudoku\sudoku\obj\Debug\sudoku.Form1.resources
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\toko ritel sepatu\sudoku\sudoku\obj\Debug\sudoku.Properties.Resources.resources
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\toko ritel sepatu\sudoku\sudoku\obj\Debug\sudoku.csproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\toko ritel sepatu\sudoku\sudoku\obj\Debug\sudoku.exe
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\toko ritel sepatu\sudoku\sudoku\obj\Debug\sudoku.pdb

@@ -1,0 +1,9 @@
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\toko ritel sepatu\sudoku2\sudoku2\bin\Debug\sudoku2.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\toko ritel sepatu\sudoku2\sudoku2\obj\Debug\sudoku2.Form1.resources
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\toko ritel sepatu\sudoku2\sudoku2\obj\Debug\sudoku2.Properties.Resources.resources
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\toko ritel sepatu\sudoku2\sudoku2\obj\Debug\sudoku2.csproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\toko ritel sepatu\sudoku2\sudoku2\bin\Debug\sudoku2.exe
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\toko ritel sepatu\sudoku2\sudoku2\bin\Debug\sudoku2.pdb
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\toko ritel sepatu\sudoku2\sudoku2\obj\Debug\sudoku2.exe
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\toko ritel sepatu\sudoku2\sudoku2\obj\Debug\sudoku2.pdb
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\toko ritel sepatu\sudoku2\sudoku2\obj\Debug\sudoku2.csprojResolveAssemblyReference.cache
